@@ -1,3 +1,19 @@
+body {
+    text-align: center;
+}
+
+a{
+    margin: 10px;
+}
+
+p{
+    background-color: #f0f0f0;
+}
+
+h2{
+    background-color: aqua;
+}
+
 img {
   width: 200px;
   height: auto;
